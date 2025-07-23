@@ -38,7 +38,7 @@ VSL/
      git clone https://github.com/Sowndt/VSL
   ```
 #### DEMO
-
+**Note:** Please wait for it to load :) It may take some time.
 ![Image](https://github.com/user-attachments/assets/d350a57a-2dea-46e2-968f-9b42855a2b10)
 
 ![Image](https://github.com/user-attachments/assets/c4dad0f2-2707-43d8-abe6-3142589bf48c)
